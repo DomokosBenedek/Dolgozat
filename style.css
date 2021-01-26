@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    background-color: lightblue;
+    padding: 30px;
+    margin: auto;
+    width: 960px;
+    height: auto;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+#elso{
+    border-top: darkblue 6px double;
+}
+h2{
+    color: darkblue;
+    border-bottom: darkblue dotted;
+    border-top: darkblue solid;
+    margin-right: 40%;
+}
+.jobb{
+    float: right;
+    width: 180px;
+    border: darkblue solid 5px;
+    margin-left: 20px;
+}
+.ball{
+    float: left;
+    width: 180px;
+    border: darkblue solid 5px;
+    margin-right: 20px;
+}
+#forras{
+    font-style: italic;
+    margin-left: 225px;
+
+}
+a:hover {
+    color: darkblue;
+  }
