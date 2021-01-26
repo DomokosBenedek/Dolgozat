@@ -19,6 +19,7 @@ h2{
     border-bottom: darkblue dotted;
     border-top: darkblue solid;
     margin-right: 40%;
+    text-transform:uppercase;
 }
 ul {
     list-style-image: url('kukac.png');
@@ -37,7 +38,7 @@ ul {
 }
 #forras{
     font-style: italic;
-    margin-left: 25%;
+    margin-left: 20%;
 
 }
 a:hover {
