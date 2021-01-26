@@ -27,13 +27,13 @@ ul {
   }
 .jobb{
     float: right;
-    width: 180px;
+    max-width: 200px;
     border: darkblue solid 5px;
     margin-left: 20px;
 }
 .ball{
     float: left;
-    width: 180px;
+    max-width: 200px;
     border: darkblue solid 5px;
     margin-right: 20px;
 }
