@@ -12,9 +12,7 @@ div{
 }
 h1{
     text-align: center;
-}
-#elso{
-    border-top: darkblue 6px double;
+    border-bottom: double darkblue 6px;
 }
 h2{
     color: darkblue;
